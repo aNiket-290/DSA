@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/aNiket-290/DSA/tree/master/0069-sqrtx) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/aNiket-290/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Dynamic Programming
 |  |
@@ -57,4 +58,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1331-rank-transform-of-an-array](https://github.com/aNiket-290/DSA/tree/master/1331-rank-transform-of-an-array) |
+## Math
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/aNiket-290/DSA/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
