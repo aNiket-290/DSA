@@ -62,4 +62,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/aNiket-290/DSA/tree/master/0069-sqrtx) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/aNiket-290/DSA/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
