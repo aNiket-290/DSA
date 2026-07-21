@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/aNiket-290/DSA/tree/master/0088-merge-sorted-array) |
+| [0344-reverse-string](https://github.com/aNiket-290/DSA/tree/master/0344-reverse-string) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/aNiket-290/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/aNiket-290/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
@@ -114,5 +115,6 @@ A collection of LeetCode questions to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/aNiket-290/DSA/tree/master/0344-reverse-string) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/aNiket-290/DSA/tree/master/3499-maximize-active-section-with-trade-i) |
 <!---LeetCode Topics End-->
