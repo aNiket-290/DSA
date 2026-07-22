@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0088-merge-sorted-array](https://github.com/aNiket-290/DSA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/aNiket-290/DSA/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/aNiket-290/DSA/tree/master/0217-contains-duplicate) |
 | [1260-shift-2d-grid](https://github.com/aNiket-290/DSA/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/aNiket-290/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/aNiket-290/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0088-merge-sorted-array](https://github.com/aNiket-290/DSA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/aNiket-290/DSA/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/aNiket-290/DSA/tree/master/0217-contains-duplicate) |
 | [1331-rank-transform-of-an-array](https://github.com/aNiket-290/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/aNiket-290/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/aNiket-290/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/aNiket-290/DSA/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/aNiket-290/DSA/tree/master/0217-contains-duplicate) |
 | [0387-first-unique-character-in-a-string](https://github.com/aNiket-290/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [1331-rank-transform-of-an-array](https://github.com/aNiket-290/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/aNiket-290/DSA/tree/master/3312-sorted-gcd-pair-queries) |
