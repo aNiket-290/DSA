@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0169-majority-element](https://github.com/aNiket-290/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/aNiket-290/DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/aNiket-290/DSA/tree/master/0219-contains-duplicate-ii) |
+| [0283-move-zeroes](https://github.com/aNiket-290/DSA/tree/master/0283-move-zeroes) |
 | [1260-shift-2d-grid](https://github.com/aNiket-290/DSA/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/aNiket-290/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/aNiket-290/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/aNiket-290/DSA/tree/master/0088-merge-sorted-array) |
+| [0283-move-zeroes](https://github.com/aNiket-290/DSA/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/aNiket-290/DSA/tree/master/0344-reverse-string) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/aNiket-290/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/aNiket-290/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
