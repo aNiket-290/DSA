@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0628-maximum-product-of-three-numbers](https://github.com/aNiket-290/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/aNiket-290/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/aNiket-290/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/aNiket-290/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/aNiket-290/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/aNiket-290/DSA/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/aNiket-290/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0387-first-unique-character-in-a-string](https://github.com/aNiket-290/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/aNiket-290/DSA/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/aNiket-290/DSA/tree/master/3501-maximize-active-section-with-trade-ii) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/aNiket-290/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Queue
 |  |
 | ------- |
@@ -177,4 +179,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/aNiket-290/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/aNiket-290/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
