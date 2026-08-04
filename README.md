@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3513-number-of-unique-xor-triplets-i](https://github.com/aNiket-290/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/aNiket-290/DSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/aNiket-290/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3731-find-missing-elements](https://github.com/aNiket-290/DSA/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/aNiket-290/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
 |  |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/aNiket-290/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/aNiket-290/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/aNiket-290/DSA/tree/master/3536-maximum-product-of-two-digits) |
+| [3731-find-missing-elements](https://github.com/aNiket-290/DSA/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/aNiket-290/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Depth-First Search
 |  |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aNiket-290/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/aNiket-290/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/aNiket-290/DSA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3731-find-missing-elements](https://github.com/aNiket-290/DSA/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
 | ------- |
