@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0088-merge-sorted-array](https://github.com/aNiket-290/DSA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/aNiket-290/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/aNiket-290/DSA/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/aNiket-290/DSA/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/aNiket-290/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/aNiket-290/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/aNiket-290/DSA/tree/master/0414-third-maximum-number) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0169-majority-element](https://github.com/aNiket-290/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/aNiket-290/DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/aNiket-290/DSA/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/aNiket-290/DSA/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/aNiket-290/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/aNiket-290/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/aNiket-290/DSA/tree/master/0387-first-unique-character-in-a-string) |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0139-word-break](https://github.com/aNiket-290/DSA/tree/master/0139-word-break) |
+| [0242-valid-anagram](https://github.com/aNiket-290/DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/aNiket-290/DSA/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/aNiket-290/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/aNiket-290/DSA/tree/master/0424-longest-repeating-character-replacement) |
