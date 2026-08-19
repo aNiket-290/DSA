@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0217-contains-duplicate](https://github.com/aNiket-290/DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/aNiket-290/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/aNiket-290/DSA/tree/master/0283-move-zeroes) |
+| [0347-top-k-frequent-elements](https://github.com/aNiket-290/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/aNiket-290/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/aNiket-290/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/aNiket-290/DSA/tree/master/0414-third-maximum-number) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0169-majority-element](https://github.com/aNiket-290/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/aNiket-290/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/aNiket-290/DSA/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/aNiket-290/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/aNiket-290/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/aNiket-290/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/aNiket-290/DSA/tree/master/0414-third-maximum-number) |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0217-contains-duplicate](https://github.com/aNiket-290/DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/aNiket-290/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/aNiket-290/DSA/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/aNiket-290/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/aNiket-290/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/aNiket-290/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/aNiket-290/DSA/tree/master/0387-first-unique-character-in-a-string) |
@@ -203,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/aNiket-290/DSA/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/aNiket-290/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/aNiket-290/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [2029-stone-game-ix](https://github.com/aNiket-290/DSA/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aNiket-290/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -240,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0169-majority-element](https://github.com/aNiket-290/DSA/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/aNiket-290/DSA/tree/master/0191-number-of-1-bits) |
+| [0347-top-k-frequent-elements](https://github.com/aNiket-290/DSA/tree/master/0347-top-k-frequent-elements) |
 ## Sliding Window
 |  |
 | ------- |
@@ -254,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/aNiket-290/DSA/tree/master/0347-top-k-frequent-elements) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/aNiket-290/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Counting Sort
 |  |
@@ -304,4 +310,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/aNiket-290/DSA/tree/master/2029-stone-game-ix) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/aNiket-290/DSA/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/aNiket-290/DSA/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
