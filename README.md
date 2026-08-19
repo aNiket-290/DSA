@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0877-stone-game](https://github.com/aNiket-290/DSA/tree/master/0877-stone-game) |
 | [1260-shift-2d-grid](https://github.com/aNiket-290/DSA/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/aNiket-290/DSA/tree/master/1331-rank-transform-of-an-array) |
+| [1386-cinema-seat-allocation](https://github.com/aNiket-290/DSA/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/aNiket-290/DSA/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/aNiket-290/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/aNiket-290/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Greedy
 |  |
 | ------- |
+| [1386-cinema-seat-allocation](https://github.com/aNiket-290/DSA/tree/master/1386-cinema-seat-allocation) |
 | [2029-stone-game-ix](https://github.com/aNiket-290/DSA/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/aNiket-290/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aNiket-290/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0191-number-of-1-bits](https://github.com/aNiket-290/DSA/tree/master/0191-number-of-1-bits) |
 | [0371-sum-of-two-integers](https://github.com/aNiket-290/DSA/tree/master/0371-sum-of-two-integers) |
+| [1386-cinema-seat-allocation](https://github.com/aNiket-290/DSA/tree/master/1386-cinema-seat-allocation) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/aNiket-290/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/aNiket-290/DSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/aNiket-290/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -141,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0387-first-unique-character-in-a-string](https://github.com/aNiket-290/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/aNiket-290/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [1331-rank-transform-of-an-array](https://github.com/aNiket-290/DSA/tree/master/1331-rank-transform-of-an-array) |
+| [1386-cinema-seat-allocation](https://github.com/aNiket-290/DSA/tree/master/1386-cinema-seat-allocation) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/aNiket-290/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/aNiket-290/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aNiket-290/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
