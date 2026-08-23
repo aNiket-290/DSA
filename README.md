@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/aNiket-290/DSA/tree/master/0049-group-anagrams) |
+| [0055-jump-game](https://github.com/aNiket-290/DSA/tree/master/0055-jump-game) |
 | [0088-merge-sorted-array](https://github.com/aNiket-290/DSA/tree/master/0088-merge-sorted-array) |
 | [0119-pascals-triangle-ii](https://github.com/aNiket-290/DSA/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aNiket-290/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/aNiket-290/DSA/tree/master/0055-jump-game) |
 | [0119-pascals-triangle-ii](https://github.com/aNiket-290/DSA/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aNiket-290/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/aNiket-290/DSA/tree/master/0139-word-break) |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/aNiket-290/DSA/tree/master/0055-jump-game) |
 | [1386-cinema-seat-allocation](https://github.com/aNiket-290/DSA/tree/master/1386-cinema-seat-allocation) |
 | [1927-sum-game](https://github.com/aNiket-290/DSA/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/aNiket-290/DSA/tree/master/2029-stone-game-ix) |
