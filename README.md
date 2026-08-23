@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/aNiket-290/DSA/tree/master/1386-cinema-seat-allocation) |
+| [1927-sum-game](https://github.com/aNiket-290/DSA/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/aNiket-290/DSA/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/aNiket-290/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aNiket-290/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0628-maximum-product-of-three-numbers](https://github.com/aNiket-290/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/aNiket-290/DSA/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/aNiket-290/DSA/tree/master/1406-stone-game-iii) |
+| [1927-sum-game](https://github.com/aNiket-290/DSA/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/aNiket-290/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/aNiket-290/DSA/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/aNiket-290/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0344-reverse-string](https://github.com/aNiket-290/DSA/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/aNiket-290/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/aNiket-290/DSA/tree/master/0424-longest-repeating-character-replacement) |
+| [1927-sum-game](https://github.com/aNiket-290/DSA/tree/master/1927-sum-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/aNiket-290/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aNiket-290/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/aNiket-290/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -288,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0486-predict-the-winner](https://github.com/aNiket-290/DSA/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/aNiket-290/DSA/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/aNiket-290/DSA/tree/master/1406-stone-game-iii) |
+| [1927-sum-game](https://github.com/aNiket-290/DSA/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/aNiket-290/DSA/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
