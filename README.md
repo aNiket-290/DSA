@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/aNiket-290/DSA/tree/master/0055-jump-game) |
+| [0115-distinct-subsequences](https://github.com/aNiket-290/DSA/tree/master/0115-distinct-subsequences) |
 | [0119-pascals-triangle-ii](https://github.com/aNiket-290/DSA/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aNiket-290/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/aNiket-290/DSA/tree/master/0139-word-break) |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/aNiket-290/DSA/tree/master/0049-group-anagrams) |
+| [0115-distinct-subsequences](https://github.com/aNiket-290/DSA/tree/master/0115-distinct-subsequences) |
 | [0139-word-break](https://github.com/aNiket-290/DSA/tree/master/0139-word-break) |
 | [0242-valid-anagram](https://github.com/aNiket-290/DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/aNiket-290/DSA/tree/master/0344-reverse-string) |
