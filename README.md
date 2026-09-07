@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0139-word-break](https://github.com/aNiket-290/DSA/tree/master/0139-word-break) |
 | [0486-predict-the-winner](https://github.com/aNiket-290/DSA/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/aNiket-290/DSA/tree/master/0877-stone-game) |
+| [0940-distinct-subsequences-ii](https://github.com/aNiket-290/DSA/tree/master/0940-distinct-subsequences-ii) |
 | [1406-stone-game-iii](https://github.com/aNiket-290/DSA/tree/master/1406-stone-game-iii) |
 | [1872-stone-game-viii](https://github.com/aNiket-290/DSA/tree/master/1872-stone-game-viii) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/aNiket-290/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0344-reverse-string](https://github.com/aNiket-290/DSA/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/aNiket-290/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/aNiket-290/DSA/tree/master/0424-longest-repeating-character-replacement) |
+| [0940-distinct-subsequences-ii](https://github.com/aNiket-290/DSA/tree/master/0940-distinct-subsequences-ii) |
 | [1927-sum-game](https://github.com/aNiket-290/DSA/tree/master/1927-sum-game) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/aNiket-290/DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/aNiket-290/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
