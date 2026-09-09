@@ -282,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0344-reverse-string](https://github.com/aNiket-290/DSA/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/aNiket-290/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/aNiket-290/DSA/tree/master/0424-longest-repeating-character-replacement) |
+| [0796-rotate-string](https://github.com/aNiket-290/DSA/tree/master/0796-rotate-string) |
 | [0940-distinct-subsequences-ii](https://github.com/aNiket-290/DSA/tree/master/0940-distinct-subsequences-ii) |
 | [1927-sum-game](https://github.com/aNiket-290/DSA/tree/master/1927-sum-game) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/aNiket-290/DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -399,4 +400,8 @@ A collection of LeetCode questions to ace the coding interview!
 | [0094-binary-tree-inorder-traversal](https://github.com/aNiket-290/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/aNiket-290/DSA/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/aNiket-290/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/aNiket-290/DSA/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
