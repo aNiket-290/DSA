@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0119-pascals-triangle-ii](https://github.com/aNiket-290/DSA/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aNiket-290/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/aNiket-290/DSA/tree/master/0139-word-break) |
+| [0338-counting-bits](https://github.com/aNiket-290/DSA/tree/master/0338-counting-bits) |
 | [0486-predict-the-winner](https://github.com/aNiket-290/DSA/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/aNiket-290/DSA/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/aNiket-290/DSA/tree/master/0940-distinct-subsequences-ii) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0190-reverse-bits](https://github.com/aNiket-290/DSA/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/aNiket-290/DSA/tree/master/0191-number-of-1-bits) |
+| [0338-counting-bits](https://github.com/aNiket-290/DSA/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/aNiket-290/DSA/tree/master/0371-sum-of-two-integers) |
 | [1386-cinema-seat-allocation](https://github.com/aNiket-290/DSA/tree/master/1386-cinema-seat-allocation) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/aNiket-290/DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
