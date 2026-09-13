@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0414-third-maximum-number](https://github.com/aNiket-290/DSA/tree/master/0414-third-maximum-number) |
 | [0486-predict-the-winner](https://github.com/aNiket-290/DSA/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aNiket-290/DSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [0835-image-overlap](https://github.com/aNiket-290/DSA/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/aNiket-290/DSA/tree/master/0877-stone-game) |
 | [1260-shift-2d-grid](https://github.com/aNiket-290/DSA/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/aNiket-290/DSA/tree/master/1331-rank-transform-of-an-array) |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Matrix
 |  |
 | ------- |
+| [0835-image-overlap](https://github.com/aNiket-290/DSA/tree/master/0835-image-overlap) |
 | [1260-shift-2d-grid](https://github.com/aNiket-290/DSA/tree/master/1260-shift-2d-grid) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/aNiket-290/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## String
