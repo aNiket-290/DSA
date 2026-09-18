@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0049-group-anagrams](https://github.com/aNiket-290/DSA/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/aNiket-290/DSA/tree/master/0055-jump-game) |
+| [0074-search-a-2d-matrix](https://github.com/aNiket-290/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/aNiket-290/DSA/tree/master/0088-merge-sorted-array) |
 | [0119-pascals-triangle-ii](https://github.com/aNiket-290/DSA/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aNiket-290/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/aNiket-290/DSA/tree/master/0069-sqrtx) |
+| [0074-search-a-2d-matrix](https://github.com/aNiket-290/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/aNiket-290/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/aNiket-290/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/aNiket-290/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -283,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Matrix
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/aNiket-290/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0835-image-overlap](https://github.com/aNiket-290/DSA/tree/master/0835-image-overlap) |
 | [1260-shift-2d-grid](https://github.com/aNiket-290/DSA/tree/master/1260-shift-2d-grid) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/aNiket-290/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
