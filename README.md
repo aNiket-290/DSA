@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1406-stone-game-iii](https://github.com/aNiket-290/DSA/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/aNiket-290/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/aNiket-290/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/aNiket-290/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1872-stone-game-viii](https://github.com/aNiket-290/DSA/tree/master/1872-stone-game-viii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/aNiket-290/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/aNiket-290/DSA/tree/master/2029-stone-game-ix) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1331-rank-transform-of-an-array](https://github.com/aNiket-290/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/aNiket-290/DSA/tree/master/1386-cinema-seat-allocation) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/aNiket-290/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/aNiket-290/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/aNiket-290/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/aNiket-290/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aNiket-290/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -310,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0424-longest-repeating-character-replacement](https://github.com/aNiket-290/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0796-rotate-string](https://github.com/aNiket-290/DSA/tree/master/0796-rotate-string) |
 | [0940-distinct-subsequences-ii](https://github.com/aNiket-290/DSA/tree/master/0940-distinct-subsequences-ii) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/aNiket-290/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1927-sum-game](https://github.com/aNiket-290/DSA/tree/master/1927-sum-game) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/aNiket-290/DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/aNiket-290/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
