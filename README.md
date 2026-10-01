@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0100-same-tree](https://github.com/aNiket-290/DSA/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/aNiket-290/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/aNiket-290/DSA/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/aNiket-290/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/aNiket-290/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/aNiket-290/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2685-count-the-number-of-complete-components](https://github.com/aNiket-290/DSA/tree/master/2685-count-the-number-of-complete-components) |
@@ -427,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0020-valid-parentheses](https://github.com/aNiket-290/DSA/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/aNiket-290/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/aNiket-290/DSA/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/aNiket-290/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/aNiket-290/DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/aNiket-290/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/aNiket-290/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -437,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0100-same-tree](https://github.com/aNiket-290/DSA/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/aNiket-290/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/aNiket-290/DSA/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/aNiket-290/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/aNiket-290/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/aNiket-290/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
@@ -446,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0100-same-tree](https://github.com/aNiket-290/DSA/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/aNiket-290/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/aNiket-290/DSA/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/aNiket-290/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/aNiket-290/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/aNiket-290/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## String Matching
